@@ -38,7 +38,7 @@ let lastDistance = 0;
 // ==========================
 
 frameImg.crossOrigin = "anonymous";
-frameImg.src = 'assets/we-want-justice.png';
+frameImg.src = 'cpbd2frame.png';
 
 // ==========================
 // DRAW FUNCTION
