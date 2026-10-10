@@ -335,7 +335,7 @@ document.getElementById('downloadBtn').onclick = () => {
 
     const link = document.createElement('a');
 
-    link.download = 'justice-dp.png';
+    link.download = 'cpbd2years-dp.png';
 
     link.href = canvas.toDataURL('image/png', 1.0);
 
