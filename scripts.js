@@ -335,7 +335,7 @@ document.getElementById('downloadBtn').onclick = () => {
 
     const link = document.createElement('a');
 
-    link.download = 'CPBD2years_' + Date.now() + '.jpg';
+    link.download = 'CPBD2years_' + Date.now() + '.png';
 
     link.href = canvas.toDataURL('image/png', 1.0);
 
